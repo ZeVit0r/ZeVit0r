@@ -1,7 +1,7 @@
 <table align="right">
   <tr>
     <td><a href="README.md">English</a></td>
-    <td><a href="README_PT-BR.md">Português</a></td>
+    <td><a href="readme_pt-br.md">Português</a></td>
   </tr>
 </table>
 
