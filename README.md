@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeVit0r&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues,prs&line_height=30" alt="Zé Vitor github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeVit0r&layout=compact&theme=chartreuse-dark&hide=Objective-C,Java" alt="Zé Vitor programming languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeVit0r&layout=compact&theme=chartreuse-dark&hide=Objective-C,Java&card_width=250" alt="Zé Vitor programming languages">
 </div>
 <div align="center">
   <img height= "20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
