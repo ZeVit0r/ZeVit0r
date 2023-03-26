@@ -16,12 +16,14 @@
 
 - 💻 Desenvolvedor Web React.js/React-native
 - 👨‍🎓 Graduado em Ciências e Tecnologia 
-- 📚 Graduando em Engenharia de Computação 7/10
+- 📖 Pós-graduando em Tecnologia da informação(desenvolvimento de software) 
+- 💼 Residente do TST(Tribunal superior do Trabalho)
+- 📚 Graduação em standby em Engenharia de Computação 7/10
 - 🚀 Estudante do bootcamp da Rocketseat
-- 🔭 Atualmente trabalho em alguns projetos como voluntário
-- 🌱 Atualmente estou aprofundando meus conhecimentos em desenvolvimento mobile
+- 🔭 Já trabalhei em alguns projetos como voluntário
+- 🌱 Atualmente estou aprofundando meus conhecimentos em testes e TDD
 - 👯 Procuro ajudar em projetos de código aberto que ajudem o mundo 
-- 💬 Pergunte-me sobre `[javascript, reactjs, nodejs and develop web]`
+- 💬 Pergunte-me sobre `[javascript, reactjs, nextjs, nodejs and develop web]`
 - 📩 Qualquer ajuda ou dica é sempre bem vinda!
 
 <h3 align="center">Entre em contato:</h3>
@@ -47,7 +49,6 @@
   <img height= "20" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img height= "20" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img height= "20" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img height= "20" src= "ttps://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img height= "20" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img height="20" src="https://img.shields.io/badge/Trpc-207CCB?style=for-the-badge&logo=trpc&logoColor=white" alt="logo trpc!" />
   <img height= "20" src= "https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>
