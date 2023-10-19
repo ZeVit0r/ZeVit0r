@@ -14,14 +14,12 @@
 
 <img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="350" height="250" />
 
-- 💻 Desenvolvedor Web React.js/React-native
-- 👨‍🎓 Graduado em Ciências e Tecnologia 
-- 📖 Pós-graduando em Tecnologia da informação(desenvolvimento de software) 
-- 💼 Residente do TST(Tribunal superior do Trabalho)
+- 💻 Desenvolvedor Web React.js/Node.js/React-native/Java⏳
+- 👨‍🎓 Pós-graduando em TI(Tecnologia da informação)
+- 👨‍🎓 Graduado em Ciências e Tecnologia
 - 📚 Graduação em standby em Engenharia de Computação 7/10
-- 🚀 Estudante do bootcamp da Rocketseat
-- 🔭 Já trabalhei em alguns projetos como voluntário
-- 🌱 Atualmente estou aprofundando meus conhecimentos em testes e TDD
+- 🔭 Atualmente trabalho(residente) como desenvolvedor no Tribunal Superior do Trabalho(TST)
+- 🌱 Atualmente estou fortalecendo meus conhecimentos em desenvolvimento backend
 - 👯 Procuro ajudar em projetos de código aberto que ajudem o mundo 
 - 💬 Pergunte-me sobre `[javascript, reactjs, nextjs, nodejs and develop web]`
 - 📩 Qualquer ajuda ou dica é sempre bem vinda!
@@ -37,6 +35,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeVit0r&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues,prs&line_height=30&locale=pt-br" alt="Zé Vitor github Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeVit0r&layout=compact&theme=chartreuse-dark&hide=Objective-C,Java&card_width=250&locale=pt-br" alt="Zé Vitor programming languages">
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/ZeVit0r/ZeVit0r/assets/40907638/219af4c5-6342-4a3b-84fe-2a759c0e9d67">
 </div>
 
 <br />
