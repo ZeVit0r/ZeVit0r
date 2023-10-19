@@ -15,8 +15,8 @@
 <img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="350" height="250" />
 
 - 💻 Developer web React.js/Node.js/React-native/Java⏳
-- 👨‍🎓 Graduated in science and technology
 - 👨‍🎓 postgraduate in TI(information Technology)
+- 👨‍🎓 Graduated in science and technology
 - 📚 paused graduation in computer engineering 7/10
 - 🔭 I currently work(resident) as a developer for the superior labor court(TST)
 - 🌱 I'm currently strengthening my knowledge in backend development
