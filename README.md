@@ -38,6 +38,12 @@
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://github.com/ZeVit0r/ZeVit0r/assets/40907638/219af4c5-6342-4a3b-84fe-2a759c0e9d67">
+</div>
+
+<br />
 <div align="center">
   <img height= "20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img height= "20" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
